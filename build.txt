@@ -1,0 +1,4 @@
+displayName = Crystal Castle
+author = ProfGoat
+version = 0.1
+modReferences = StructureHelper

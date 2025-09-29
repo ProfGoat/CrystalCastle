@@ -1,0 +1,15 @@
+Buffs: {
+	RestabilizationBuff: {
+		DisplayName: Restabilization Buff
+		Description: Mods.CrystalCastle.Buffs.RestabilizationBuff.Description
+	}
+}
+
+Items: {
+	ShiftingTome: {
+		DisplayName: Shifting Tome
+		Tooltip: ""
+	}
+}
+
+Projectiles.PhaseWisp.DisplayName: Phase Wisp
